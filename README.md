@@ -3,7 +3,7 @@
 
 # Machine Learning Pipeline Implementation
 
-This repository contains scripts and data files to perform a machine learning pipeline programmatically using the provided JSON file `algoparams_from_ui.json`.
+This repository contains scripts and data files to perform a machine learning pipeline programmatically using the provided JSON file `algoparams_from_ui.json.rtf`.
 
 ## Files
 
